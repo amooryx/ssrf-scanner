@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="ssrf-scanner" width="800">
+</div>
+
 # ssrf-scanner
 
 > SSRF detection with IMDS and OOB payload testing
