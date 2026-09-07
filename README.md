@@ -1,4 +1,4 @@
-﻿# ssrf-scanner
+# ssrf-scanner
 
 > SSRF detection with IMDS and OOB payload testing
 
